@@ -38,7 +38,6 @@ Your challenge is to implement the following designs given in the below section 
 
    **NOTE:** Data for item list should be passed through json, do not directly hard code the data items in the html. 
 
-   <img src='https://user-images.githubusercontent.com/13765124/27330493-404effba-55d7-11e7-83a8-5e84a55a8e5e.png' width=500 />
    <img src='https://user-images.githubusercontent.com/23208209/27527493-aa8915c8-5a69-11e7-80db-899420d3eaa5.png' width=500 />
 
 
@@ -52,15 +51,15 @@ Your challenge is to implement the following designs given in the below section 
   - If the total amount of your cart is Rs. 450/- then 22.5% of progress bar will be filled.
   - If the total amount of your cart is more than Rs. 2000/- then 100% of progress-bar will be fiiled.
   
-       <img src='https://user-images.githubusercontent.com/13765124/27329829-b5a97c2a-55d4-11e7-9b81-b3fc75095c4b.png' width=500 />
+       <img src='https://user-images.githubusercontent.com/23208209/27527562-0e5846d2-5a6a-11e7-9d92-af509afb24d4.png' width=500 />
   
 - Enable "Place order" button in Your cart section only if the ordered amount in >= Rs. 2000/-
-         <img src='https://user-images.githubusercontent.com/13765124/27329922-1eaebe60-55d5-11e7-9563-08d9bbe6cf25.png' width=500 />
+         <img src='https://user-images.githubusercontent.com/23208209/27527597-2ca5e09a-5a6a-11e7-89d9-734ee1b35e28.png' width=500 />
 
 
 - On placing the order, show notification as shown in the below image
  
-     <img src='https://user-images.githubusercontent.com/13765124/27330380-c503eb4a-55d6-11e7-9b2d-05b186657f66.png' width=500 />
+     <img src='https://user-images.githubusercontent.com/23208209/27527631-4cc55c52-5a6a-11e7-9d28-19b201c089e4.png' width=500 />
      
      After showing the notification(i.e after successfully placing the order), set the app to initial state.
 
