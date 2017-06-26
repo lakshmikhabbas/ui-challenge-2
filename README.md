@@ -39,6 +39,7 @@ Your challenge is to implement the following designs given in the below section 
    **NOTE:** Data for item list should be passed through json, do not directly hard code the data items in the html. 
 
    <img src='https://user-images.githubusercontent.com/13765124/27330493-404effba-55d7-11e7-83a8-5e84a55a8e5e.png' width=500 />
+   <img src='https://user-images.githubusercontent.com/23208209/27527493-aa8915c8-5a69-11e7-80db-899420d3eaa5.png' width=500 />
 
 
 - User can add or remove items to Cart by clicking on Plus and Minus icons from both "Your cart" section and from the item itself. Price in the "Your cart" section changes dynamically as number of items changes.
